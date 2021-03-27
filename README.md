@@ -5,8 +5,7 @@
 🌱 &nbsp;I'm Interested in building mobile and web apps and heavily interested in any form of iot.\
 ✍️ &nbsp;In my free time, I pursue Martial Arts and Hiking and video games.\
 💬 &nbsp;Feel free to reach out to me for Any oportunity full time or part time.\
-✉️ &nbsp;You can shoot me an email at alirezatk73@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1bWGSD38ydxBfoPHgSlQbkZaKehHf455E_ftcmE1jk30/edit?usp=sharing) for more details about me.
+✉️ &nbsp;You can shoot me an email at nima.2004hkh@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
