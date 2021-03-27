@@ -1,9 +1,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm was a law graduate turned developer.\
-🌱 &nbsp;I'm Interested in building mobile and web apps and heavily interested in any form of iot.\
-✍️ &nbsp;In my free time, I pursue Martial Arts and Hiking and video games.\
+🌱 &nbsp;I'm Interested in Full Stack Developer, with demonstrated skills in designing structure, developing, and implementing applications and solu‑tions,.\
+✍️ &nbsp;In my free time, I pursue Martial Arts and moovies and reading books.\
 💬 &nbsp;Feel free to reach out to me for Any oportunity full time or part time.\
 ✉️ &nbsp;You can shoot me an email at nima.2004hkh@gmail.com! I'll try to respond as soon as I can.\
 
